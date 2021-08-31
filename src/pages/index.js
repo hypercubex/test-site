@@ -31,7 +31,7 @@ const IndexPage = () => {
           </p>
           <ol>
             <li>relax, this challenge is expected to consume less than <u>8 hours</u></li>
-            <li>please write tests cases and automated test scripts for this site (<b>this page</b> and the <a data-testid='main-instruction-search-link' href='/search'>Search Page</a>, mainly)</li>
+            <li>please write tests cases and automated test scripts for this site (<b>this page</b> and the <a data-testid='main-instruction-products-link' href='/products'>Product Page</a>, mainly)</li>
             <li>automated test scripts with selenium/cypress/jest/Puppeteer or any test frameworks that we can run your tests</li>
             <li>provide some simple instructions on how can we run the tests</li>
             <li>a brief explanation/assumptions or what do the tests cover, for example, what success cases and failed cases are considered</li>

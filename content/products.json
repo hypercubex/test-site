@@ -1,7 +1,7 @@
 [
   {
     "id": 1001,
-    "categories": ["Category 1", "Category 1"],
+    "categories": ["Category 1", "Category 3"],
     "name": "Product 1",
     "image": "https://picsum.photos/400?image=732",
     "inStock": false,
@@ -9,7 +9,7 @@
   },
   {
     "id": 1002,
-    "categories": ["Category 2", "Category 2"],
+    "categories": ["Category 2", "Category 1"],
     "name": "Product 2",
     "image": "https://picsum.photos/400?image=886",
     "inStock": true,
@@ -49,7 +49,7 @@
   },
   {
     "id": 1007,
-    "categories": ["Category 3", "Category 3"],
+    "categories": ["Category 3", "Category 4"],
     "name": "Product 7",
     "image": "https://picsum.photos/400?image=207",
     "inStock": false,
@@ -97,7 +97,7 @@
   },
   {
     "id": 1013,
-    "categories": ["Category 4", "Category 4"],
+    "categories": ["Category 4", "Category 2"],
     "name": "Product 13",
     "image": "https://picsum.photos/400?image=350",
     "inStock": false,
@@ -137,7 +137,7 @@
   },
   {
     "id": 1018,
-    "categories": ["Category 4", "Category 4"],
+    "categories": ["Category 3", "Category 4"],
     "name": "Product 18",
     "image": "https://picsum.photos/400?image=283",
     "inStock": true,
@@ -145,7 +145,7 @@
   },
   {
     "id": 1019,
-    "categories": ["Category 1", "Category 1"],
+    "categories": ["Category 1", "Category 2"],
     "name": "Product 19",
     "image": "https://picsum.photos/400?image=3",
     "inStock": true,
@@ -185,7 +185,7 @@
   },
   {
     "id": 1024,
-    "categories": ["Category 1", "Category 1"],
+    "categories": ["Category 1", "Category 2"],
     "name": "Product 24",
     "image": "https://picsum.photos/400?image=443",
     "inStock": true,
