@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-c4ee389b6dd3946d7814.js","mappings":"8HAKA,UALkB,WAChB,OACE","sources":["webpack://test-site/./src/pages/index.js"],"sourcesContent":["const IndexPage = () => {\n  return (\n    <div>Hello World!</div>\n  )\n}\nexport default IndexPage"],"names":[],"sourceRoot":""}
