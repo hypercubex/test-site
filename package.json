@@ -17,6 +17,8 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@mui/x-data-grid": "^4.0.0",
     "gatsby": "^3.12.1",
     "gatsby-plugin-provide-react": "^1.0.2",
     "gatsby-source-filesystem": "^3.12.0",
