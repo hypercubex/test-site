@@ -60,7 +60,7 @@ const ProductPage = () => {
           <div style={{ marginLeft: '30px', border: '1px solid #bbb', display: 'inline-block' }}>
             <img
               width='120px'
-              src={'/filter-instruction.png'}
+              src={'/test-site-qa/filter-instruction.png'}
               alt='table header menu' />
           </div>
         </div>
