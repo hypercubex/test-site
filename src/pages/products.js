@@ -2,6 +2,7 @@ import axios from 'axios'
 // import { MenuItem, Button, TextField } from "@material-ui/core"
 import { DataGrid } from '@mui/x-data-grid'
 import { useCallback, useEffect, useState } from "react"
+import { Link } from "gatsby"
 // import { useForm } from "react-hook-form"
 
 const columns = [
@@ -39,7 +40,7 @@ const ProductPage = () => {
 
   const loadProducts = useCallback(async () => {
     const response = await axios.get(`${window.location.origin
-      }/api/products`)
+      }/test-site-qa/products.json`)
 
     setProducts(response.data)
   })
@@ -91,7 +92,7 @@ const ProductPage = () => {
           <ol>
             <li>filter results should match selected criteria, e.g. if we selected Category 4, all products listed in the result should have "Category 4" in the categories field</li>
             <li>check if any data are strange/unexpected</li>
-            <li>you are encouraged to test <a href='/api/products'>the API response</a> too</li>
+            <li>you are encouraged to test <a href='/test-site-qa/products.json'>the API response</a> too</li>
           </ol>
         </div>
       </div>
