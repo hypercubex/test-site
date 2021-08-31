@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-search-js-656585e52421bb03ac3c.js","mappings":"6HAQA,UARmB,WACjB,OACE,2BACE","sources":["webpack://test-site/./src/pages/search.js"],"sourcesContent":["const SearchPage = () => {\n  return (\n    <div>\n      <h1>Let's Search Something</h1>\n    </div>\n  )\n}\n\nexport default SearchPage"],"names":[],"sourceRoot":""}
