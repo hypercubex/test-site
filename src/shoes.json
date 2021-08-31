@@ -1,0 +1,1339 @@
+{
+  "content": { "length": 278 },
+  "plpMessage": "SEARCH RESULT",
+  "plpKeyword": "",
+  "productIdList": "BVA295,BVA301,BUW712,BVH200,BVH204,BUL301,BUV312,BUI942,BUH721,BVR435,BVA447,BVA441,BVO359,BVO357,BVO356,BVO353,BVO361,BVO354,BUV320,BVO337,BVE482,BVA821,BVA838,BVA830,BVA836,BOH526,BVA452",
+  "urlTemplate": "?N=79347989+1550643041&_=1630425894176",
+  "pagination": { "value": 1, "length": 11 },
+  "filter": [
+    {
+      "name": "Brand",
+      "property": "product.brands.displayName",
+      "trackingLabel": "",
+      "filterName": "BRAND",
+      "type": "brand",
+      "layout": 1,
+      "isExpandedInDesktop": false,
+      "isExpandedInMobile": false,
+      "enableShowMoreLink": false,
+      "showMoreText": "",
+      "lessLinkText": "",
+      "scrollable": "true",
+      "noAdvSearchResultText": "Sorry, there are no results,",
+      "seeAllBrandUrlText": "see all brands",
+      "content": [
+        {
+          "name": "ALEXANDER MCQUEEN",
+          "defaultName": "ALEXANDER MCQUEEN",
+          "value": "3541765183",
+          "dataSource": "?N=79347989+1550643041+3541765183&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "BALENCIAGA",
+          "defaultName": "BALENCIAGA",
+          "value": "1000007595",
+          "dataSource": "?N=79347989+1550643041+1000007595&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "BURBERRY",
+          "defaultName": "BURBERRY",
+          "value": "2884039260",
+          "dataSource": "?N=79347989+1550643041+2884039260&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "BOTTEGA VENETA",
+          "defaultName": "BOTTEGA VENETA",
+          "value": "3013769069",
+          "dataSource": "?N=79347989+1550643041+3013769069&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "COMMON PROJECTS",
+          "defaultName": "COMMON PROJECTS",
+          "value": "35093160",
+          "dataSource": "?N=79347989+1550643041+35093160&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "GOLDEN GOOSE",
+          "defaultName": "GOLDEN GOOSE",
+          "value": "390633695",
+          "dataSource": "?N=79347989+1550643041+390633695&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "MAGNANNI",
+          "defaultName": "MAGNANNI",
+          "value": "2826900097",
+          "dataSource": "?N=79347989+1550643041+2826900097&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "PRADA",
+          "defaultName": "PRADA",
+          "value": "1351184205",
+          "dataSource": "?N=79347989+1550643041+1351184205&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "VALENTINO",
+          "defaultName": "VALENTINO",
+          "value": "2273432458",
+          "dataSource": "?N=79347989+1550643041+2273432458&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "ACNE STUDIOS",
+          "defaultName": "ACNE STUDIOS",
+          "value": "3464217226",
+          "dataSource": "?N=79347989+1550643041+3464217226&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "ADIDAS",
+          "defaultName": "ADIDAS",
+          "value": "3992023643",
+          "dataSource": "?N=79347989+1550643041+3992023643&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "ADIDAS BY PHARRELL WILLIAMS",
+          "defaultName": "ADIDAS BY PHARRELL WILLIAMS",
+          "value": "3520141043",
+          "dataSource": "?N=79347989+1550643041+3520141043&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "AMIRI",
+          "defaultName": "AMIRI",
+          "value": "3723992202",
+          "dataSource": "?N=79347989+1550643041+3723992202&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "AXEL ARIGATO",
+          "defaultName": "AXEL ARIGATO",
+          "value": "2922671255",
+          "dataSource": "?N=79347989+1550643041+2922671255&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "ERMENEGILDO ZEGNA",
+          "defaultName": "ERMENEGILDO ZEGNA",
+          "value": "630997",
+          "dataSource": "?N=79347989+1550643041+630997&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "FENDI",
+          "defaultName": "FENDI",
+          "value": "4259094448",
+          "dataSource": "?N=79347989+1550643041+4259094448&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "HENDERSON",
+          "defaultName": "HENDERSON",
+          "value": "743301593",
+          "dataSource": "?N=79347989+1550643041+743301593&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "JOHN LOBB",
+          "defaultName": "JOHN LOBB",
+          "value": "2593821652",
+          "dataSource": "?N=79347989+1550643041+2593821652&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "LANVIN",
+          "defaultName": "LANVIN",
+          "value": "1652100283",
+          "dataSource": "?N=79347989+1550643041+1652100283&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "LOEWE",
+          "defaultName": "LOEWE",
+          "value": "875574371",
+          "dataSource": "?N=79347989+1550643041+875574371&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "NEW BALANCE",
+          "defaultName": "NEW BALANCE",
+          "value": "802555904",
+          "dataSource": "?N=79347989+1550643041+802555904&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "NIKE",
+          "defaultName": "NIKE",
+          "value": "3877924637",
+          "dataSource": "?N=79347989+1550643041+3877924637&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "PIERRE HARDY",
+          "defaultName": "PIERRE HARDY",
+          "value": "1074924351",
+          "dataSource": "?N=79347989+1550643041+1074924351&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "RAF SIMONS",
+          "defaultName": "RAF SIMONS",
+          "value": "3434011603",
+          "dataSource": "?N=79347989+1550643041+3434011603&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "REEBOK",
+          "defaultName": "REEBOK",
+          "value": "397447964",
+          "dataSource": "?N=79347989+1550643041+397447964&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "ROLANDO STURLINI",
+          "defaultName": "ROLANDO STURLINI",
+          "value": "444716365",
+          "dataSource": "?N=79347989+1550643041+444716365&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "SAINT LAURENT",
+          "defaultName": "SAINT LAURENT",
+          "value": "3021034085",
+          "dataSource": "?N=79347989+1550643041+3021034085&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "SANTONI",
+          "defaultName": "SANTONI",
+          "value": "4167316075",
+          "dataSource": "?N=79347989+1550643041+4167316075&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "STARWALK",
+          "defaultName": "STARWALK",
+          "value": "3952429091",
+          "dataSource": "?N=79347989+1550643041+3952429091&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "THOM BROWNE",
+          "defaultName": "THOM BROWNE",
+          "value": "2872770920",
+          "dataSource": "?N=79347989+1550643041+2872770920&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "VANS",
+          "defaultName": "VANS",
+          "value": "3303866263",
+          "dataSource": "?N=79347989+1550643041+3303866263&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "VEJA",
+          "defaultName": "VEJA",
+          "value": "3442267996",
+          "dataSource": "?N=79347989+1550643041+3442267996&_=1630425894176",
+          "selected": "false"
+        }
+      ]
+    },
+    {
+      "name": "Colour",
+      "property": "product.lcFacetColors",
+      "trackingLabel": "",
+      "filterName": "COLOR",
+      "type": "color",
+      "layout": 2,
+      "isExpandedInDesktop": false,
+      "isExpandedInMobile": false,
+      "enableShowMoreLink": false,
+      "showMoreText": "",
+      "lessLinkText": "",
+      "scrollable": "true",
+      "content": [
+        {
+          "name": "Black",
+          "defaultName": "Black",
+          "value": "1046524689",
+          "dataSource": "?N=79347989+1550643041+1046524689&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Blue",
+          "defaultName": "Blue",
+          "value": "3386481151",
+          "dataSource": "?N=79347989+1550643041+3386481151&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Brown",
+          "defaultName": "Brown",
+          "value": "156050100",
+          "dataSource": "?N=79347989+1550643041+156050100&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Green",
+          "defaultName": "Green",
+          "value": "487865464",
+          "dataSource": "?N=79347989+1550643041+487865464&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Grey",
+          "defaultName": "Grey",
+          "value": "285051151",
+          "dataSource": "?N=79347989+1550643041+285051151&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Metallic",
+          "defaultName": "Metallic",
+          "value": "1058884289",
+          "dataSource": "?N=79347989+1550643041+1058884289&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Multi-colour",
+          "defaultName": "Multi-colour",
+          "value": "1944384342",
+          "dataSource": "?N=79347989+1550643041+1944384342&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Neutral",
+          "defaultName": "Neutral",
+          "value": "2782735467",
+          "dataSource": "?N=79347989+1550643041+2782735467&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Pink",
+          "defaultName": "Pink",
+          "value": "3476809508",
+          "dataSource": "?N=79347989+1550643041+3476809508&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Purple",
+          "defaultName": "Purple",
+          "value": "3431059312",
+          "dataSource": "?N=79347989+1550643041+3431059312&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Red",
+          "defaultName": "Red",
+          "value": "708839279",
+          "dataSource": "?N=79347989+1550643041+708839279&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "White",
+          "defaultName": "White",
+          "value": "4142372985",
+          "dataSource": "?N=79347989+1550643041+4142372985&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Yellow",
+          "defaultName": "Yellow",
+          "value": "679814019",
+          "dataSource": "?N=79347989+1550643041+679814019&_=1630425894176",
+          "selected": "false"
+        }
+      ]
+    },
+    {
+      "name": "Price",
+      "trackingLabel": "",
+      "filterName": "PRICE",
+      "type": "price",
+      "enable": true,
+      "content": [
+        {
+          "format": { "prefix": "HK$", "decimals": 0, "thousand": "," },
+          "range": { "min": 390.0, "max": 8750.0 },
+          "value": { "min": 390.0, "max": 8750.0 }
+        }
+      ]
+    },
+    {
+      "name": "Discount",
+      "property": "product.lcSalePriceDiscountRange",
+      "trackingLabel": "",
+      "filterName": "empty",
+      "type": "1533110570",
+      "layout": 1,
+      "isExpandedInDesktop": false,
+      "isExpandedInMobile": false,
+      "enableShowMoreLink": false,
+      "showMoreText": "",
+      "lessLinkText": "",
+      "scrollable": "true",
+      "content": [
+        {
+          "name": "50 - 59%",
+          "defaultName": "50 - 59%",
+          "value": "894255876",
+          "dataSource": "?N=79347989+1550643041+894255876&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "30 - 49%",
+          "defaultName": "30 - 49%",
+          "value": "1591117422",
+          "dataSource": "?N=79347989+1550643041+1591117422&_=1630425894176",
+          "selected": "false"
+        }
+      ]
+    },
+    {
+      "name": "Size",
+      "property": "product.lcSize",
+      "type": "size",
+      "layout": 1,
+      "content": [
+        {
+          "name": "shoes",
+          "defaultName": "shoes",
+          "property": "product.lcSize.shoes",
+          "trackingLabel": "",
+          "type": "size",
+          "layout": 1,
+          "isExpandedInDesktop": false,
+          "isExpandedInMobile": false,
+          "enableShowMoreLink": false,
+          "showMoreText": "",
+          "lessLinkText": "",
+          "scrollable": "true",
+          "content": [
+            {
+              "name": "39",
+              "value": "3974208043",
+              "dataSource": "?N=79347989+1550643041+3974208043&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "39.5",
+              "value": "1943757752",
+              "dataSource": "?N=79347989+1550643041+1943757752&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "40",
+              "value": "1482102848",
+              "dataSource": "?N=79347989+1550643041+1482102848&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "40.5",
+              "value": "3038793026",
+              "dataSource": "?N=79347989+1550643041+3038793026&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "41",
+              "value": "1493576356",
+              "dataSource": "?N=79347989+1550643041+1493576356&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "41.5",
+              "value": "2224958976",
+              "dataSource": "?N=79347989+1550643041+2224958976&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "42",
+              "value": "4274216422",
+              "dataSource": "?N=79347989+1550643041+4274216422&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "42.5",
+              "value": "1211436245",
+              "dataSource": "?N=79347989+1550643041+1211436245&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "43",
+              "value": "1213301798",
+              "dataSource": "?N=79347989+1550643041+1213301798&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "43.5",
+              "value": "502494412",
+              "dataSource": "?N=79347989+1550643041+502494412&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "44",
+              "value": "3002049941",
+              "dataSource": "?N=79347989+1550643041+3002049941&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "45",
+              "value": "1859754904",
+              "dataSource": "?N=79347989+1550643041+1859754904&_=1630425894176",
+              "selected": "false"
+            },
+            {
+              "name": "46",
+              "value": "1028420822",
+              "dataSource": "?N=79347989+1550643041+1028420822&_=1630425894176",
+              "selected": "false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sort by",
+      "type": "sort",
+      "content": [
+        {
+          "name": "Arrival Date",
+          "value": "product___startDate|1",
+          "dataSource": "?N=79347989+1550643041&Ns=product___startDate|1&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Price: High to Low",
+          "value": "product___activePrice|1",
+          "dataSource": "?N=79347989+1550643041&Ns=product___activePrice|1&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Price: Low to High",
+          "value": "product___activePrice|0",
+          "dataSource": "?N=79347989+1550643041&Ns=product___activePrice|0&_=1630425894176",
+          "selected": "false"
+        },
+        {
+          "name": "Recommended",
+          "value": "",
+          "dataSource": "?N=79347989+1550643041&_=1630425894176",
+          "selected": "true"
+        }
+      ]
+    }
+  ],
+  "testPLP": false,
+  "productList": [
+    {
+      "productId": "BVA295",
+      "productDisplayName": "327 Made Draft",
+      "productDisplayNameRaw": "327 Made Draft",
+      "productUrl": "/product/new-balance/327-made-draft/_/BVA295/product.lc",
+      "productPrice": "HK$799",
+      "productOrigPrice": "HK$799",
+      "productIsOnSale": false,
+      "productBrandName": "NEW BALANCE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "NEW",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA295_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA295_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA295_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA295_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA295_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Black"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA301",
+      "productDisplayName": "327 Made Draft",
+      "productDisplayNameRaw": "327 Made Draft",
+      "productUrl": "/product/new-balance/327-made-draft/_/BVA301/product.lc",
+      "productPrice": "HK$799",
+      "productOrigPrice": "HK$799",
+      "productIsOnSale": false,
+      "productBrandName": "NEW BALANCE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "NEW",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA301_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA301_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA301_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA301_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA301_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Grey"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BUW712",
+      "productDisplayName": "Retropy E5",
+      "productDisplayNameRaw": "Retropy E5",
+      "productUrl": "/product/adidas/retropy-e5/_/BUW712/product.lc",
+      "productPrice": "HK$999",
+      "productOrigPrice": "HK$999",
+      "productIsOnSale": false,
+      "productBrandName": "ADIDAS",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "NEW",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/U/W/BUW712_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/U/W/BUW712_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/U/W/BUW712_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/U/W/BUW712_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/U/W/BUW712_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Multi-colour"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVH200",
+      "productDisplayName": "Soft Sneaker",
+      "productDisplayNameRaw": "Soft Sneaker",
+      "productUrl": "/product/santoni/soft-sneaker/_/BVH200/product.lc",
+      "productPrice": "HK$4,200",
+      "productOrigPrice": "HK$4,200",
+      "productIsOnSale": false,
+      "productBrandName": "SANTONI",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "NEW",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/H/BVH200_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/H/BVH200_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/H/BVH200_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/H/BVH200_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/H/BVH200_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Green"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVH204",
+      "productDisplayName": "Soft Sneaker",
+      "productDisplayNameRaw": "Soft Sneaker",
+      "productUrl": "/product/santoni/soft-sneaker/_/BVH204/product.lc",
+      "productPrice": "HK$4,200",
+      "productOrigPrice": "HK$4,200",
+      "productIsOnSale": false,
+      "productBrandName": "SANTONI",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "NEW",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/H/BVH204_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/H/BVH204_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/H/BVH204_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/H/BVH204_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/H/BVH204_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Brown"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BUL301",
+      "productDisplayName": "SL06 Printed Tab Sneakers",
+      "productDisplayNameRaw": "SL06 Printed Tab Sneakers",
+      "productUrl": "/product/saint-laurent/sl06-printed-tab-sneakers/_/BUL301/product.lc",
+      "productPrice": "HK$4,950",
+      "productOrigPrice": "HK$4,950",
+      "productIsOnSale": false,
+      "productBrandName": "SAINT LAURENT",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/U/L/BUL301_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/U/L/BUL301_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/U/L/BUL301_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/U/L/BUL301_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/U/L/BUL301_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["White"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BUV312",
+      "productDisplayName": "Tiziano' Suede Lace Up Sneakers",
+      "productDisplayNameRaw": "Tiziano' Suede Lace Up Sneakers",
+      "productUrl": "/product/ermenegildo-zegna/tiziano-suede-lace-up-sneakers/_/BUV312/product.lc",
+      "productPrice": "HK$7,800",
+      "productOrigPrice": "HK$7,800",
+      "productIsOnSale": false,
+      "productBrandName": "ERMENEGILDO ZEGNA",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/U/V/BUV312_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/U/V/BUV312_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/U/V/BUV312_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/U/V/BUV312_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/U/V/BUV312_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Neutral"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BUI942",
+      "productDisplayName": "Roman Stud Sneakers",
+      "productDisplayNameRaw": "Roman Stud Sneakers",
+      "productUrl": "/product/valentino/roman-stud-sneakers/_/BUI942/product.lc",
+      "productPrice": "HK$6,600",
+      "productOrigPrice": "HK$6,600",
+      "productIsOnSale": false,
+      "productBrandName": "VALENTINO",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/U/I/BUI942_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/U/I/BUI942_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/U/I/BUI942_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/U/I/BUI942_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/U/I/BUI942_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["White"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BUH721",
+      "productDisplayName": "Buckle Strap Suede Hi Top Sneakers",
+      "productDisplayNameRaw": "Buckle Strap Suede Hi Top Sneakers",
+      "productUrl": "/product/pierre-hardy/buckle-strap-suede-hi-top-sneakers/_/BUH721/product.lc",
+      "productPrice": "HK$5,200",
+      "productOrigPrice": "HK$5,200",
+      "productIsOnSale": false,
+      "productBrandName": "PIERRE HARDY",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/U/H/BUH721_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/U/H/BUH721_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/U/H/BUH721_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/U/H/BUH721_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/U/H/BUH721_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Multi-colour"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVR435",
+      "productDisplayName": "FDMTL x Vans Vault OG Slip-On LX Sneakers",
+      "productDisplayNameRaw": "FDMTL x Vans Vault OG Slip-On LX Sneakers",
+      "productUrl": "/product/vans/fdmtl-x-vans-vault-og-slip-on-lx-sneakers/_/BVR435/product.lc",
+      "productPrice": "HK$1,590",
+      "productOrigPrice": "HK$1,590",
+      "productIsOnSale": false,
+      "productBrandName": "VANS",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/R/BVR435_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/R/BVR435_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/R/BVR435_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/R/BVR435_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/R/BVR435_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Blue"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA447",
+      "productDisplayName": "Anaheim Factory Classic Slip-On DX PW",
+      "productDisplayNameRaw": "Anaheim Factory Classic Slip-On DX PW",
+      "productUrl": "/product/vans/anaheim-factory-classic-slip-on-dx-pw/_/BVA447/product.lc",
+      "productPrice": "HK$750",
+      "productOrigPrice": "HK$750",
+      "productIsOnSale": false,
+      "productBrandName": "VANS",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA447_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA447_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA447_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA447_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA447_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Green"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA441",
+      "productDisplayName": "Anaheim Factory Authentic 44 DX PW",
+      "productDisplayNameRaw": "Anaheim Factory Authentic 44 DX PW",
+      "productUrl": "/product/vans/anaheim-factory-authentic-44-dx-pw/_/BVA441/product.lc",
+      "productPrice": "HK$750",
+      "productOrigPrice": "HK$750",
+      "productIsOnSale": false,
+      "productBrandName": "VANS",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA441_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA441_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA441_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA441_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA441_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Green"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO359",
+      "productDisplayName": "Starwalk Sneaker",
+      "productDisplayNameRaw": "Starwalk Sneaker",
+      "productUrl": "/product/starwalk/starwalk-sneaker/_/BVO359/product.lc",
+      "productPrice": "HK$1,670",
+      "productOrigPrice": "HK$1,670",
+      "productIsOnSale": false,
+      "productBrandName": "STARWALK",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO359_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO359_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO359_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO359_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO359_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Grey"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO357",
+      "productDisplayName": "Forbidden City' Green And Red Leather Sneakers",
+      "productDisplayNameRaw": "Forbidden City' Green And Red Leather Sneakers",
+      "productUrl": "/product/starwalk/forbidden-city-green-and-red-leather-sneakers/_/BVO357/product.lc",
+      "productPrice": "HK$1,670",
+      "productOrigPrice": "HK$1,670",
+      "productIsOnSale": false,
+      "productBrandName": "STARWALK",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO357_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO357_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO357_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO357_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO357_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": [],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO356",
+      "productDisplayName": "Red And Blue Panelled Yellow Leather Sneakers",
+      "productDisplayNameRaw": "Red And Blue Panelled Yellow Leather Sneakers",
+      "productUrl": "/product/starwalk/red-and-blue-panelled-yellow-leather-sneakers/_/BVO356/product.lc",
+      "productPrice": "HK$1,670",
+      "productOrigPrice": "HK$1,670",
+      "productIsOnSale": false,
+      "productBrandName": "STARWALK",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO356_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO356_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO356_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO356_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO356_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": [],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO353",
+      "productDisplayName": "Triple White Leather Lace Up Sneakers",
+      "productDisplayNameRaw": "Triple White Leather Lace Up Sneakers",
+      "productUrl": "/product/starwalk/triple-white-leather-lace-up-sneakers/_/BVO353/product.lc",
+      "productPrice": "HK$1,270",
+      "productOrigPrice": "HK$1,270",
+      "productIsOnSale": false,
+      "productBrandName": "STARWALK",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO353_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO353_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO353_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO353_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO353_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": [],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO361",
+      "productDisplayName": "Blue Leather Lace Up Sneakers",
+      "productDisplayNameRaw": "Blue Leather Lace Up Sneakers",
+      "productUrl": "/product/starwalk/blue-leather-lace-up-sneakers/_/BVO361/product.lc",
+      "productPrice": "HK$1,780",
+      "productOrigPrice": "HK$1,780",
+      "productIsOnSale": false,
+      "productBrandName": "STARWALK",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO361_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO361_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO361_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO361_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO361_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": [],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO354",
+      "productDisplayName": "White And Red 2.0 Sneakers",
+      "productDisplayNameRaw": "White And Red 2.0 Sneakers",
+      "productUrl": "/product/starwalk/white-and-red-2.0-sneakers/_/BVO354/product.lc",
+      "productPrice": "HK$1,670",
+      "productOrigPrice": "HK$1,670",
+      "productIsOnSale": false,
+      "productBrandName": "STARWALK",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO354_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO354_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO354_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO354_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO354_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": [],
+      "comingSoon": false
+    },
+    {
+      "productId": "BUV320",
+      "productDisplayName": "Suede Leather Triple Stitch XXX Sneaker",
+      "productDisplayNameRaw": "Suede Leather Triple Stitch XXX Sneaker",
+      "productUrl": "/product/ermenegildo-zegna/suede-leather-triple-stitch-xxx-sneaker/_/BUV320/product.lc",
+      "productPrice": "HK$6,800",
+      "productOrigPrice": "HK$6,800",
+      "productIsOnSale": false,
+      "productBrandName": "ERMENEGILDO ZEGNA",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/U/V/BUV320_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/U/V/BUV320_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/U/V/BUV320_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/U/V/BUV320_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/U/V/BUV320_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Grey"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVO337",
+      "productDisplayName": "Air Force 1 '07 Craft Sneakers",
+      "productDisplayNameRaw": "Air Force 1 '07 Craft Sneakers",
+      "productUrl": "/product/nike/air-force-1-07-craft-sneakers/_/BVO337/product.lc",
+      "productPrice": "HK$899",
+      "productOrigPrice": "HK$899",
+      "productIsOnSale": false,
+      "productBrandName": "NIKE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO337_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/O/BVO337_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/O/BVO337_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/O/BVO337_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/O/BVO337_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Neutral"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVE482",
+      "productDisplayName": "Waffle Trainer 2 Sneakers",
+      "productDisplayNameRaw": "Waffle Trainer 2 Sneakers",
+      "productUrl": "/product/nike/waffle-trainer-2-sneakers/_/BVE482/product.lc",
+      "productPrice": "HK$749",
+      "productOrigPrice": "HK$749",
+      "productIsOnSale": false,
+      "productBrandName": "NIKE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/E/BVE482_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/E/BVE482_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/E/BVE482_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/E/BVE482_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/E/BVE482_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Neutral"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA821",
+      "productDisplayName": "Flow 2020 ISPA Sneakers",
+      "productDisplayNameRaw": "Flow 2020 ISPA Sneakers",
+      "productUrl": "/product/nike/flow-2020-ispa-sneakers/_/BVA821/product.lc",
+      "productPrice": "HK$1,299",
+      "productOrigPrice": "HK$1,299",
+      "productIsOnSale": false,
+      "productBrandName": "NIKE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA821_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA821_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA821_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA821_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA821_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Multi-colour"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA838",
+      "productDisplayName": "Air Max 90 NRG Sneakers",
+      "productDisplayNameRaw": "Air Max 90 NRG Sneakers",
+      "productUrl": "/product/nike/air-max-90-nrg-sneakers/_/BVA838/product.lc",
+      "productPrice": "HK$999",
+      "productOrigPrice": "HK$999",
+      "productIsOnSale": false,
+      "productBrandName": "NIKE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA838_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA838_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA838_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA838_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA838_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Neutral"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA830",
+      "productDisplayName": "Flow 2020 ISPA Sneakers",
+      "productDisplayNameRaw": "Flow 2020 ISPA Sneakers",
+      "productUrl": "/product/nike/flow-2020-ispa-sneakers/_/BVA830/product.lc",
+      "productPrice": "HK$1,299",
+      "productOrigPrice": "HK$1,299",
+      "productIsOnSale": false,
+      "productBrandName": "NIKE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA830_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA830_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA830_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA830_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA830_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Multi-colour"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA836",
+      "productDisplayName": "Air Max 90 NRG Sneakers",
+      "productDisplayNameRaw": "Air Max 90 NRG Sneakers",
+      "productUrl": "/product/nike/air-max-90-nrg-sneakers/_/BVA836/product.lc",
+      "productPrice": "HK$999",
+      "productOrigPrice": "HK$999",
+      "productIsOnSale": false,
+      "productBrandName": "NIKE",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA836_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA836_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA836_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA836_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA836_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Grey"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BOH526",
+      "productDisplayName": "Opanca Grain Tennis Sneaker",
+      "productDisplayNameRaw": "Opanca Grain Tennis Sneaker",
+      "productUrl": "/product/magnanni/opanca-grain-tennis-sneaker/_/BOH526/product.lc",
+      "productPrice": "HK$3,100",
+      "productOrigPrice": "HK$3,100",
+      "productIsOnSale": false,
+      "productBrandName": "MAGNANNI",
+      "productSiblings": { "colors": [] },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/O/H/BOH526_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/O/H/BOH526_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/O/H/BOH526_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/O/H/BOH526_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/O/H/BOH526_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["White"],
+      "comingSoon": false
+    },
+    {
+      "productId": "BVA452",
+      "productDisplayName": "OG Authentic LX Bedwin",
+      "productDisplayNameRaw": "OG Authentic LX Bedwin",
+      "productUrl": "/product/vans/og-authentic-lx-bedwin/_/BVA452/product.lc",
+      "productPrice": "HK$850",
+      "productOrigPrice": "HK$850",
+      "productIsOnSale": false,
+      "productBrandName": "VANS",
+      "productSiblings": {
+        "colors": [
+          {
+            "productId": "BVA452",
+            "productDisplayName": "OG Authentic LX Bedwin",
+            "productUrl": "/product/vans/og-authentic-lx-bedwin/_/BVA452/product.lc",
+            "productPrice": "HK$850",
+            "productOrigPrice": "HK$850",
+            "productIsOnSale": false,
+            "stock": 5,
+            "soldOut": false,
+            "outOfStock": false,
+            "inStoreOnly": true,
+            "productImageTitle": "VANS OG Authentic LX Bedwin",
+            "specialItemText": "",
+            "availabilityText": "",
+            "swatchImage": "https://media.lanecrawford.com/colorimg/BVA452_swatch.jpg",
+            "colorDisplayName": "YELLOW",
+            "productImageList": [
+              {
+                "data-img": "https://media.lanecrawford.com/B/V/A/BVA452_in_l.jpg"
+              },
+              {
+                "data-img": "https://media.lanecrawford.com/B/V/A/BVA452_ro_l.jpg"
+              }
+            ],
+            "productImages": {
+              "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA452_ro_l.jpg",
+              "indexImage": "https://media.lanecrawford.com/B/V/A/BVA452_in_l.jpg"
+            },
+            "comingSoon": false
+          },
+          {
+            "productId": "BVA449",
+            "productDisplayName": "OG Authentic LX Bedwin",
+            "productUrl": "/product/vans/og-authentic-lx-bedwin/_/BVA449/product.lc",
+            "productPrice": "HK$850",
+            "productOrigPrice": "HK$850",
+            "productIsOnSale": false,
+            "stock": 16,
+            "soldOut": false,
+            "outOfStock": false,
+            "inStoreOnly": true,
+            "productImageTitle": "VANS OG Authentic LX Bedwin",
+            "specialItemText": "",
+            "availabilityText": "",
+            "swatchImage": "https://media.lanecrawford.com/colorimg/BVA449_swatch.jpg",
+            "colorDisplayName": "BLUE",
+            "productImageList": [
+              {
+                "data-img": "https://media.lanecrawford.com/B/V/A/BVA449_in_l.jpg"
+              },
+              {
+                "data-img": "https://media.lanecrawford.com/B/V/A/BVA449_ro_l.jpg"
+              }
+            ],
+            "productImages": {
+              "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA449_ro_l.jpg",
+              "indexImage": "https://media.lanecrawford.com/B/V/A/BVA449_in_l.jpg"
+            },
+            "comingSoon": false
+          }
+        ]
+      },
+      "runway": false,
+      "specialItemText": "",
+      "productImageList": [
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA452_in_l.jpg" },
+        { "data-img": "https://media.lanecrawford.com/B/V/A/BVA452_ro_l.jpg" }
+      ],
+      "productImages": {
+        "onFigureImage": "https://media.lanecrawford.com/B/V/A/BVA452_ro_l.jpg",
+        "previewImage": "https://media.lanecrawford.com/B/V/A/BVA452_in_xs.jpg",
+        "indexImage": "https://media.lanecrawford.com/B/V/A/BVA452_in_l.jpg"
+      },
+      "availabilityText": "",
+      "lcFacetColor": ["Yellow"],
+      "comingSoon": false
+    }
+  ],
+  "suggestSearchList": [],
+  "currentCategory": {
+    "displayName": "Sneakers",
+    "displayNameDefault": "sneakers",
+    "categoryId": "MenSneakers"
+  },
+  "breadcrumbCategories": [
+    {
+      "displayName": "Men",
+      "displayNameDefault": "men",
+      "categoryId": "cat50016"
+    },
+    {
+      "url": "/category/MenShoes/men/shoes/",
+      "displayName": "Shoes",
+      "displayNameDefault": "shoes",
+      "categoryId": "MenShoes"
+    },
+    {
+      "displayName": "Sneakers",
+      "displayNameDefault": "sneakers",
+      "categoryId": "MenSneakers"
+    }
+  ],
+  "navigationCategories": [
+    {
+      "url": "/category/MenSkateSlipOns/men/shoes/sneakers/skate-slip-ons/",
+      "displayName": "Skate Slip-Ons",
+      "displayNameDefault": "skate-slip-ons",
+      "categoryLevel": 2,
+      "categoryId": "MenSkateSlipOns"
+    },
+    {
+      "url": "/category/MenAthletic/men/shoes/sneakers/athletic/",
+      "displayName": "Athletic",
+      "displayNameDefault": "athletic",
+      "categoryLevel": 2,
+      "categoryId": "MenAthletic"
+    }
+  ],
+  "plpTitle": "Sneakers",
+  "config": { "hasColorGrouping": false },
+  "plpDefaultTitle": "Sneakers",
+  "availableBU": [
+    {
+      "navigationUrl": "?N=79347989+1550643041&_=1630425894176",
+      "dimensionId": 99999,
+      "count": 1,
+      "dimensionName": "",
+      "displayName": "ALL",
+      "order": 0,
+      "selected": false
+    },
+    {
+      "navigationUrl": "?N=79347989+1550643041&_=1630425894176",
+      "dimensionId": 79347989,
+      "count": 1,
+      "dimensionName": "men",
+      "displayName": "MEN",
+      "order": 200,
+      "selected": false
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
-  "name": "test-site",
+  "name": "test-site-qa",
   "version": "1.0.0",
   "private": true,
-  "description": "test-site",
+  "description": "test-site-qa",
   "author": "hypercubex",
   "license": "MIT",
   "keywords": [

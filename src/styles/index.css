@@ -1,0 +1,59 @@
+#main-content {
+  text-align: center;
+  width: 600px;
+  margin: auto;
+}
+
+.greeting-message {
+  display: inline-block;
+  font-size: 36px;
+}
+
+#main-instruction {
+  text-align: start;
+}
+
+#main-instruction li {
+  margin: 5px;
+}
+
+@keyframes spiral-0 {
+  from {
+    transform: rotate(0deg) translate(150px) rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg) translate(0px) rotate(-360deg);
+  }
+}
+@keyframes spiral-1 {
+  from {
+    transform: rotate(40deg) translate(150px) rotate(-40deg);
+  }
+  to {
+    transform: rotate(400deg) translate(0px) rotate(-400deg);
+  }
+}
+@keyframes spiral-2 {
+  from {
+    transform: rotate(80deg) translate(150px) rotate(-80deg);
+  }
+  to {
+    transform: rotate(440deg) translate(0px) rotate(-440deg);
+  }
+}
+@keyframes spiral-3 {
+  from {
+    transform: rotate(120deg) translate(150px) rotate(-120deg);
+  }
+  to {
+    transform: rotate(480deg) translate(0px) rotate(-480deg);
+  }
+}
+@keyframes spiral-4 {
+  from {
+    transform: rotate(160deg) translate(150px) rotate(-160deg);
+  }
+  to {
+    transform: rotate(520deg) translate(0px) rotate(-520deg);
+  }
+}
